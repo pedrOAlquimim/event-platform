@@ -1,6 +1,6 @@
 # Event Platform
 
-### English
+## English
 
 - You can view and access this link: [event-platform](https://event-platform-two-kappa.vercel.app/)
 
@@ -40,7 +40,7 @@ npm run dev
 ```
 
 
-### Português
+## Português
 
 - Você pode visualizar e acessar neste link: [event-platform](https://event-platform-two-kappa.vercel.app/)
 
